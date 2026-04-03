@@ -1,0 +1,2 @@
+# blockchain-playground
+A playground repository for experimenting with blockchain tools, scripts, and Web3 concepts.
